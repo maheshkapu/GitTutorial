@@ -6,3 +6,4 @@ line2 new deleted
 line added
 line 3 added
 line 4 added
+line 5 added for new branch_1
